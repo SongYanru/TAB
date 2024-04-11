@@ -289,7 +289,7 @@ class LOF:
 
 ### Adding top-3 results
 
-![image-20240411205349553](figs/image-20240411205349553.png)
+![image-20240411205349553](figs/image-20240411210343233.png)
 
 ![image-20240411210114804](figs/image-20240411210114804.png)
 
